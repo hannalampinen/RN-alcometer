@@ -4,7 +4,7 @@ import RadioForm, {RadioButton, RadioButtonInput, RadioButtonLabel} from 'react-
 import NumericInput from 'react-native-numeric-input';
 import { styles, darkTheme, lightTheme } from './Styles';
 
-// NaN ja Infinity tulee joissain laskutoimituksissa, mutta muuten kaikki tehty
+// HANNA LAMPINEN, TIK21KM
 
 export default function App() {
 
